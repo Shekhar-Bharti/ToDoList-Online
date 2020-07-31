@@ -1,9 +1,10 @@
 ## ToDoList-Online
 App that helps to make and access notes of day to day activies that can be accessed anywhere with proper authentication. 
 ### Technologies Used
-  Java,Firebase
+• Java, XML
+• Firebase
 ### Features
-•	 Security: It allows user to operate only after proper authentication.
+• Security: It allows user to operate only after proper authentication.
 <p>
 <img src="https://user-images.githubusercontent.com/56762662/89049891-90a84980-d36f-11ea-9096-0de4887101bf.jpg" width="184" height="400">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/56762662/89049923-9f8efc00-d36f-11ea-9ffd-c2bdf3c4fece.jpg" width="184" height="400">
@@ -17,5 +18,5 @@ App that helps to make and access notes of day to day activies that can be acces
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/56762662/89050091-dbc25c80-d36f-11ea-83e6-db0475f30479.jpg" width="184" height="400">
 </p>
 
-# Contributers 
--> Shekhar Bharti
+### Author
+• shekhar Bharti
