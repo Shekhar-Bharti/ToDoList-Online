@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="fblue">#059BE5</color>
+    <color name="fYellow">#FFCB2B</color>
+    <color name="forange">#FFA611</color>
+    <color name="white">#FFFFFF</color>
+    <color name="fred">#FF8964</color>
+    <color name="forangedark">#F6820D</color>
+</resources>

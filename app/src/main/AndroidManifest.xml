@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.todolist">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/todolistsquare"
+        android:label="ToDoList"
+        android:roundIcon="@drawable/todolistround"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".AddListActivity"></activity>
+        <activity android:name=".add_list" />
+        <activity android:name=".SignInActivity" />
+        <activity android:name=".ToDoListActivity"
+            android:windowSoftInputMode="adjustNothing"/>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
