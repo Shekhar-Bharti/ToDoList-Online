@@ -18,4 +18,4 @@ App that helps to make and access notes of day to day activies that can be acces
 </p>
 
 ### Author
-• shekhar Bharti
+• Shekhar Bharti
