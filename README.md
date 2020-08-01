@@ -1,5 +1,5 @@
 ## ToDoList-Online
-App that helps to make and access notes of day to day activies that can be accessed anywhere with proper authentication. 
+App that helps to make notes of day to day activies that can be accessed anywhere with proper authentication. 
 ### Technologies Used
 • Java, XML, Firebase
 ### Features
