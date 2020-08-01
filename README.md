@@ -2,7 +2,7 @@
 App that helps to make notes of day to day activies that can be accessed anywhere with proper authentication. 
 ### Technologies Used
 • Java, XML, Firebase
-### Features
+### Key Features
 • Security: It allows user to operate only after proper authentication.
 <p>
 <img src="https://user-images.githubusercontent.com/56762662/89049891-90a84980-d36f-11ea-9096-0de4887101bf.jpg" width="184" height="400">
